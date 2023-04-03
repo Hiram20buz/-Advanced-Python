@@ -5,7 +5,7 @@ print(sys.argv[0])
 print(sys.argv[1])
 '''
 
-# Usage: main.py Filename
+# Usage: main.py Filename message
 
 filename = sys.argv[1]
 message = sys.argv[2]
